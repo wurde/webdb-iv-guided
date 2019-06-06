@@ -4,7 +4,8 @@
   "description": "- clone the [starter code](https://github.com/LambdaSchool/webapi-iii-guided).\r - create a solution branch: `git checkout -b solution`.\r - add this repository as a remote: `git remote add solution https://github.com/LambdaSchool/webapi-iii-guided-solution`\r - pull from this repository's `master` branch into the `solution` branch in your local folder `git pull solution master:solution --force`.",
   "main": "index.js",
   "scripts": {
-    "server": "nodemon"
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
