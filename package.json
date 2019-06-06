@@ -1,7 +1,7 @@
 {
   "name": "webdb-iv-guided",
   "version": "1.0.0",
-  "description": "- clone the [starter code](https://github.com/LambdaSchool/webapi-iii-guided).\r - create a solution branch: `git checkout -b solution`.\r - add this repository as a remote: `git remote add solution https://github.com/LambdaSchool/webapi-iii-guided-solution`\r - pull from this repository's `master` branch into the `solution` branch in your local folder `git pull solution master:solution --force`.",
+  "description": "Web DB IV Guided",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
