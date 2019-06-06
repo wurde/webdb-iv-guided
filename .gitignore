@@ -80,4 +80,4 @@ typings/
 .dynamodb/
 
 # Mac cruft
-.DS_Store
+.DS_Store.gitsync_lock
